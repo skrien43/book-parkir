@@ -1,5 +1,5 @@
 # book-parkir
-a Parking Book Application integrated with SQL Developer (BETA).
+a Parking Book Application integrated with SQL Developer (BETA), created with Java lang.
 See on 'master' branch.
 
 
