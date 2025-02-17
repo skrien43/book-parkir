@@ -1,6 +1,6 @@
 # book-parkir
 a Parking Book Application integrated with SQL Developer (BETA).
-see on 'master' branch.
+See on 'master' branch.
 
 
 PROHIBITED for Commercial Use, created on 2024.
